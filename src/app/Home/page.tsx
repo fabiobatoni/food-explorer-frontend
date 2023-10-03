@@ -67,7 +67,7 @@ export default function Home() {
                                        <Swiper
                                         modules={[Navigation, Pagination, Scrollbar, A11y]}
                                         spaceBetween={5}
-                                        slidesPerView={3}
+                                        slidesPerView={1}
                                         navigation
                                         breakpoints={{
                                             414: {
@@ -105,7 +105,7 @@ export default function Home() {
                                        <Swiper
                                     modules={[Navigation, Pagination, Scrollbar, A11y]}
                                     spaceBetween={5}
-                                    slidesPerView={3}
+                                    slidesPerView={1}
                                     navigation
                                     breakpoints={{
                                         414: {
@@ -143,7 +143,7 @@ export default function Home() {
                                        <Swiper
                                     modules={[Navigation, Pagination, Scrollbar, A11y]}
                                     spaceBetween={5}
-                                    slidesPerView={3}
+                                    slidesPerView={1}
                                     navigation
                                     breakpoints={{
                                         414: {
